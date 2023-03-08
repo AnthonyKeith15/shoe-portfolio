@@ -14,7 +14,7 @@ class Cart extends React.Component {
     console.log(this.state.cartState);
     return(
       <>
-      <h1>This is on Cart</h1>
+      <h1>This is on Carts</h1>
       </>
     )
   }
